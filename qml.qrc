@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>xpMain.qml</file>
+        <file>image/shadow_bottom.png</file>
+        <file>image/shadow_left.png</file>
+        <file>image/shadow_left_bottom.png</file>
+        <file>image/shadow_left_top.png</file>
+        <file>image/shadow_right.png</file>
+        <file>image/shadow_right_bottom.png</file>
+        <file>image/shadow_right_top.png</file>
+        <file>image/shadow_top.png</file>
+        <file>LeftBorder.qml</file>
+        <file>TopBorder.qml</file>
+        <file>RightBorder.qml</file>
+        <file>BottomBorder.qml</file>
+        <file>MidTextArea.qml</file>
+        <file>ModuleJs.js</file>
+        <file>MidTabView.qml</file>
+        <file>image/backup_btnclose_h.png</file>
+        <file>image/backup_btnclose_n.png</file>
+        <file>image/backup_btnclose_p.png</file>
+        <file>MidRect.qml</file>
+    </qresource>
+</RCC>
